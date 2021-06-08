@@ -1,0 +1,27 @@
+td{
+  text-align:center;
+}
+.b{
+  background-color:#696969;
+  color:yellow;
+  padding: 15px 30px;
+  text-align:center;
+  font-size: 30px;
+}
+.box{
+  font-size:25px;
+}
+.head{
+  background-color: navy;
+  color:white;
+}
+table caption{
+  border: 2px solid purple;
+  background-color: yellow;
+}
+table {
+  border: 2px solid purple;
+}
+tr{
+  background-color:teal;
+}
